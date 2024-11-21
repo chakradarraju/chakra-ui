@@ -1,5 +1,13 @@
 # @chakra-ui/react
 
+## 3.2.1
+
+### Patch Changes
+
+- [`0b83d6b`](https://github.com/chakra-ui/chakra-ui/commit/0b83d6b49eb08f612258be9453840cbf052e920b)
+  Thanks [@segunadebayo](https://github.com/segunadebayo)! - Tabs: Fix issue
+  where `useTabs` and `useTabsContext` were not exported
+
 ## 3.2.0
 
 ### Minor Changes
